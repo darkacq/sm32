@@ -1,0 +1,388 @@
+body,html{
+	font-size: 10px;
+	overflow-x:hidden;
+}
+
+.bg-nav{
+	background-color:black;
+}
+
+.navbar{
+	
+	font-family:monospace;
+	position:fixed;
+	color:white;
+	height:12rem;
+	font-size:3rem;
+	
+	
+	}
+	
+a.navbar-brand{
+	font-size:6rem;
+	position:absolute;
+	left:5rem;
+	top:0.9rem;
+	font-family:fantasy;
+	
+}
+
+.nav-link{
+	color:white;
+	
+	
+}
+
+.panel1{
+	background-image:url(../images/ford.jpg);
+	height:108rem;
+	
+	
+}
+
+.napis1{
+	position:absolute;
+	color:white;
+	top:17rem;
+	font-size:15rem;
+	width:15rem;
+	left:100rem;
+	font-family: 'Patua One', cursive;
+}
+
+.napis2{
+	position:absolute;
+	top:55rem;
+	color:white;
+	font-size:5rem;
+	width:4,8rem;
+	left:101rem;
+	font-family: 'Patua One', cursive;
+}
+
+.panel2{
+	height:96rem;
+}
+
+.panel3{
+	background-color:#333333;
+	
+}
+
+.panel4{
+	background-image:url(../images/schody.png);
+	background-repeat:no-repeat;
+	width:43rem;
+	
+}
+
+.napis3{
+	position:absolute;
+	top:10rem;
+	font-size:15rem;
+	width:8rem;
+	left:20rem;
+	font-family: 'Patua One', cursive;
+	color:white;
+}
+
+.napis4{
+	position:absolute;
+	top:48rem;
+	font-size:5rem;
+	left:20rem;
+	font-family: 'Patua One', cursive;
+	color:white;
+	
+}
+
+.panel5{
+	height:96rem;
+	background-image:url(../images/płytki.png);
+	background-repeat:no-repeat;
+	margin-left:1rem;
+	
+	
+	
+}
+
+.napis5{
+	color:black;
+	position:absolute;
+	top:220rem;
+	left:120rem;
+	font-size:15rem;
+	width:10rem;
+	
+}
+
+.napis6{
+	color:black;
+	position:absolute;
+	top:260rem;
+	left:120rem;
+	font-size:5rem;
+	
+	
+}
+
+.panel7{
+	background-image:url(../images/gazeta.png);
+	height:90rem;
+}
+
+.panel8{
+	background-color:black;
+}
+
+.panel9{
+	height:29rem;
+	background-color:#333333;
+	margin-left:-1.5rem;
+	
+	
+}
+
+.panel10{
+	height:29rem;
+	background-color:#333333;
+	margin-left:-1.5rem;
+}
+
+.panel11{
+	height:30rem;
+	background-color:#333333;
+	margin-left:-1.5rem;
+}
+
+.napis7{
+	font-family: 'Patua One', cursive;
+	margin-left:3rem;
+	position:absolute;
+	top:3rem;
+	font-size:4rem;
+	color:white;
+}
+
+.napis8{
+	font-family: 'Patua One', cursive;
+	position:absolute;
+	top:10rem;
+	left:3rem;
+	font-size:2.5rem;
+	color:white;
+}
+
+.napis9{
+	position:absolute;
+	font-size:2rem;
+	left:3rem;
+	top:23rem;
+	color:white;
+}
+
+.napis10{
+	font-family: 'Patua One', cursive;
+	margin-left:3rem;
+	position:absolute;
+	top:32rem;
+	font-size:4rem;
+	color:white;
+}
+
+.napis11{
+	font-family: 'Patua One', cursive;
+	position:absolute;
+	top:39rem;
+	left:3rem;
+	font-size:2.5rem;
+	color:white;
+}
+
+.napis12{
+	position:absolute;
+	font-size:2rem;
+	left:3rem;
+	top:52rem;
+	color:white;
+}
+
+.napis13{
+	font-family: 'Patua One', cursive;
+	margin-left:3rem;
+	position:absolute;
+	top:63rem;
+	font-size:4rem;
+	color:white;
+}
+
+.napis14{
+	font-family: 'Patua One', cursive;
+	position:absolute;
+	top:70rem;
+	left:3rem;
+	font-size:2.5rem;
+	color:white;
+}
+
+.napis15{
+	position:absolute;
+	font-size:2rem;
+	left:3rem;
+	top:83rem;
+	color:white;
+}
+
+.panel12{
+	height:108rem;
+	background-image:url(../images/trawa.jpg);
+}
+
+.vertical-center {
+
+    font-size:3rem;
+	padding-left:74rem;
+    display: flex;
+    align-items: center;
+	
+}
+
+.panel13{
+	height:25rem;
+	background-color:#333333;
+	
+}
+
+.napis16{
+	font-family: 'Patua One', cursive;
+	position:absolute;
+	left:8rem;
+	font-size:4rem;
+	top:499.5rem;
+	color:white;
+	
+	
+}
+
+.napis17{
+	
+	position:absolute;
+	left:8rem;
+	font-size:1.5rem;
+	top:505rem;
+	color:white;
+	width:40rem;
+	
+}
+
+.napis18{
+	
+	position:absolute;
+	left:8rem;
+	font-size:1.8rem;
+	top:512rem;
+	color:white;
+	
+}
+
+
+.napis19{
+	
+	position:absolute;
+	left:8rem;
+	font-size:2rem;
+	top:516rem;
+	color:white;
+	
+}
+
+.links{
+	font-size:3rem;
+	font-family: 'Patua One', cursive;
+	position:absolute;
+	left:4rem;
+	top:-5.5rem;
+}
+
+.link{
+	position:absolute;
+	top:505rem;
+	color:white;
+	left:53rem;
+	font-size:1.8rem;
+	
+}
+
+.infos{
+	font-size:3rem;
+	font-family: 'Patua One', cursive;
+	position:absolute;
+	left:4rem;
+	top:-5.5rem;
+}
+
+.info{
+	position:absolute;
+	top:505rem;
+	color:white;
+	left:83rem;
+	font-size:1.8rem;
+}
+
+.guides{
+	font-size:3rem;
+	font-family: 'Patua One', cursive;
+	position:absolute;
+	left:4rem;
+	top:-5.5rem;
+}
+
+.guide{
+	position:absolute;
+	top:505rem;
+	color:white;
+	left:113rem;
+	font-size:1.8rem;
+}
+
+.socials{
+	font-size:3rem;
+	font-family: 'Patua One', cursive;
+	position:absolute;
+	left:146rem;
+	top:499.5rem;
+	color:white;
+}
+
+.fb{
+	position:absolute;
+	left:146rem;
+	top:503.5rem;
+	font-size:3rem;
+	color:white;
+	
+}
+
+.insta{
+	position:absolute;
+	left:150rem;
+	top:503.5rem;
+	font-size:3rem;
+	color:white;
+}
+
+.twit{
+	position:absolute;
+	left:154rem;
+	top:503.5rem;
+	font-size:3rem;
+	color:white;
+}
+
+ul {
+
+list-style-type: none;
+
+}
+
+
